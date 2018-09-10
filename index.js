@@ -19,5 +19,5 @@ function makeInt(a){
   return(a.toString)
 }
 function makeInt(a){
-  return(parseInt)
+  return(a.parseInt)
 }
