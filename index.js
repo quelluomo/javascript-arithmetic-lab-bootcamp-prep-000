@@ -18,6 +18,6 @@ function inc(a){
 function makeInt(a){
   return(a.toString)
 }
-function makeInt("0x2328"){
+function makeInt(a){
   return(a.parseInt)
 }
