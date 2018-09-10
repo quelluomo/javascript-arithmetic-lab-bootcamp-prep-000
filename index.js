@@ -22,13 +22,5 @@ function makeInt(a){
   return parseInt(a, 10)
 }
 function makeInt() {
-  return('sldkjflksjf')
+  return('sldkjflksjf', 10)
 }
-
-
-
-//
-it('returns NaN as appropriate', function() {
-    expect(isNaN(makeInt('sldkjflksjf'))).toEqual(true)
-  })
-  //
