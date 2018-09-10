@@ -17,7 +17,6 @@ function inc(a){
 }
 function makeInt(a){
   return(a.toString)
-}
-function makeInt(a){
+ makeInt(a)
   return(a.parseInt)
 }
